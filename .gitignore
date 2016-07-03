@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+# Editor
+*.kate-swp
+*.~
+*~
+*.swp
+
 # Distribution / packaging
 .Python
 env/
