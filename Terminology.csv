@@ -1,2 +1,19 @@
-# CSV Terminology "database"
-# TODO
+"Term";"Rejected";"See Also";"Type";"Use Case";"Definition (from MW or Wikipedia)";"Wiki-URL"
+"32-bit";"32 Bit, 32 bit, 32-Bit, 32Bit, 32bit";;"adj";;;
+"3D";"3 D, 3 d, 3.D., 3.d., 3-D, 3-d, 3d, Three-D";;"adj";;;
+"64-bit";"64 Bit, 64 bit, 64-Bit, 64Bit, 64bit";;"adj";;;
+"AArch64";"ARM64, ARMv8";;"noun";;"a 32-/64-bit processor architecture";"https://en.wikipedia.org/wiki/ARM_architecture"
+"activate";"(to) block sth., (to) check sth., (to) choose sth., (to) highlight sth., (to) tick sth.";;"verb";"when referring to check boxes";"to cause to function";
+"adapter";"adaptor";;"noun";;"something that is not necessary in itself but adds to the convenience or performance of the main piece of equipment";
+"add-on";"add on, AddOn, addOn, addon";;"noun";;"something that is not necessary in itself but adds to the convenience or performance of the main piece of equipment";
+"advice";"advise";;"noun";;;
+"AMD64/Intel 64";"x64, x86_64, x86-64, 64-bit AMD/Intel, AMD/Intel64";;"noun";;"processor architecture from Intel";
+"AOO";"Aoo, aoo, OO, oo";"OOo";"acr noun";;"when referring to versions 3.4 and after; spelling according to project standard; acronym of Apache OpenOffice";
+"Apache OpenOffice";"Apache Open Office, Apache Openoffice, OpenOffice ";"OpenOffice.org, AOO";"noun";;"when referring to versions 3.4 and after; spelling according to project standard";
+"architecture";"arch";;"noun";;"hardware platform, especially concerning processor platform";
+"appendixes";"appendices";;"noun";"plural of appendix";"a part added at the end of a book or periodical";
+"audio CD";"Audio CD, Audio-CD, CD-Audio, CD Audio, CD audio";;"noun";;;
+"back-end";"back end, backend";;"noun";;"distinguish between the separation of concerns between the presentation layer (the front end) - which is the interface between the user - and the data access layer (the back end)";"https://en.wikipedia.org/wiki/Front_and_back_ends"
+"backup sth. up";"backup sth.";;"verb";;;
+"backup";"back-up, back up";;"noun";;"a backup, or the process of backing up, refers to the copying and archiving of computer data so it may be used to restore the original after a data loss event.";"https://en.wikipedia.org/wiki/Backup"
+"Bash";"BASH, bash";;"noun";;;"https://en.wikipedia.org/wiki/Bash_(Unix_shell)"
