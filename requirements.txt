@@ -1,0 +1,6 @@
+#
+# Requirement files for Python Virtual Environments
+#
+
+# CLI parsing made easy:
+docopt

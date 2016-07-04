@@ -1,0 +1,25 @@
+#
+# Requirement files for Python Virtual Environments
+#
+-r requirements.txt
+pytest
+pytest-cov
+
+## collection of helpers and mock objects:
+testfixtures
+## virtualenv-based automation of test activities:
+tox
+## Version-bump your software with a single command:
+bumpversion
+## A built-package format for Python:
+wheel
+## Python style guide checker:
+flake8
+## Code checker:
+prospector
+## for test coverage:
+# coverage
+## Test reporters for Codecov, Scrutinizer, and Code Climate:
+codeclimate-test-reporter
+codecov
+scrutinizer-ocular
